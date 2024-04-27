@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdicionarVisitantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdicionarVisitantes2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAvaliacao1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAvaliacao2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAvaliacao3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditarAvaliacao1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditarAvaliacao2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditarAvaliacao3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditarMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditarUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditarVisitacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditarVisitante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFormulárioVisitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormGerenciarVisitantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormGuia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMeuPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRelatorioCidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRelatórioVisitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTodasAvaliacoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTodasVisitacoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTodosMonitores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormVisitacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormVisitante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormVisualizarAvaliacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormVisualizarVisita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormVisualizarVisitante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="parqueDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
